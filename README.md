@@ -13,14 +13,14 @@ Detecting traffic lights and the distance to them on runtime within given video 
 
 ## Example images:
 ### Part 1 - Source Lights
-![Source Lights](/examples/part_1.jpg)
+![Source Lights](/examples/part_1.JPG)
 
 ### part 2 - Traffic Lights
-![Traffic Lights](/examples/part_2.jpg)
+![Traffic Lights](/examples/part_2.JPG)
 
 ### part 3 - Distance to each detected traffic light from the camera.
-![Distance](/examples/part_3.jpg)
+![Distance](/examples/part_3.JPG)
 
 ### part 4 - Integration
-![Integration](/examples/part_4.jpg)
+![Integration](/examples/part_4.JPG)
 
